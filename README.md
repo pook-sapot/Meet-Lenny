@@ -1,4 +1,4 @@
-# Meet Lenny - Standard embed
+# Meet Lenny - Responsive / Standard embed
 
 https://pook-sapot.github.io/Meet-Lenny/
 
